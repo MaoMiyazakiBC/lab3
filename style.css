@@ -1,0 +1,18 @@
+
+body { 
+      text-align: center; 
+      background-color: lightsteelblue; 
+      font-family: Arial, sans-serif;
+      margin: 10%;
+    }
+
+    li { 
+      list-style-type: none; 
+      padding: 10px; 
+    }
+p{
+    color: darkgoldenrod
+}
+ol{
+   color: darkgoldenrod 
+}
